@@ -1,0 +1,131 @@
+#div{
+      
+    width: 562px;
+margin-left: 554px;
+height: 302px;
+
+margin-top: 127px;
+
+}
+    
+  
+  img{
+    background-color: aqua;
+    width:235px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
+  #box{
+    display: flex;
+height: 441px;
+width: 777px;
+align-content: center;
+border-radius: 14px;
+}
+  
+  #d{
+    background-color:white ;
+    border-top-right-radius: 8px;
+border-bottom-right-radius: 8px;
+width: 291px;
+}
+  
+  #p{
+    font-size:auto;
+    color: #262323b5;;
+    margin-left:25px;
+    font-family:monospace;
+    display:flex;
+    margin-top:29px;
+    letter-spacing:3px;
+  }
+  #gab{
+    margin-top: -4px;
+    font-weight: 700;
+    font-size: 34px;
+    margin-left: 19px;
+    
+
+  }
+  #floral{
+    
+    color: #262323b5;
+    margin-top:-23px;
+    margin-left:23px;
+  }
+  #price{
+  
+    margin-left: 26px;
+font-weight: 800;
+font-family: fraunces;
+font-size: 34px;
+margin-top: 19px;
+color:hsl(158,36%,37%);
+font-weight:500px;
+    margin-top:19px;
+    font-family: 'fraunces';
+    font-size:34px;
+
+  }
+  body{
+    background-color: rgb(212, 206, 198);
+  }
+  
+  
+  #s{
+    font-weight:200;
+    font-size:13px;
+    margin-left:161px;
+    display:flex;
+    margin-top:-29px;
+    color: #534e4ecf;
+}
+
+    
+  
+  .button{
+    background-color:hsl(158,36%,37%);
+    width:234px;
+    height:29px;
+    border-radius:10px;
+    cursor: pointer;
+    display:flex;
+    margin-left:8px;
+  }
+  .button:hover{
+    color:white;
+    
+  }
+
+a{
+color:white;
+text-decoration-line: none;
+}
+
+a:visiited{
+text-decoration:none ;
+color:white
+}
+#pi{
+margin-left:82px;
+font-size:17px;
+margin-top:12.5px;
+}
+#button{
+background-color:hsl(158,36%,37%);
+    width:237px;
+    height:48px;
+    border-radius:12px;
+    cursor: pointer;
+    display:flex;
+    border: white;
+    margin-top:43px;
+    margin-left:25px;
+}
+#svg{
+
+margin-left: 94px;
+position: absolute;
+display: flex;
+margin-top:24px;
+}
